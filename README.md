@@ -35,15 +35,6 @@ Page	Focus	Key Metrics
 Executive Performance Overview	Growth & revenue	Total Transactions, Successful Value, Success Rate %, Provider Fee Revenue, Active Customers, MoM Growth
 Customer & Geographic Performance	Customer behavior & geography	Transactions per Active Customer, Segment Value, Engagement/Frequency, Acquisition Channel, Geographic Distribution
 Merchant & Transaction Reliability	Operational reliability	Active Merchants, Failed Transactions, Failed Rate %, Avg Processing Time, Channel Reliability, Failure Trends
-
-📸 Screenshots
-
-
-
-
-
-
-
 📂 Repository Structure
 ├── data/           # Sample/masked raw data (or a note on data source, if data is private)
 ├── scripts/        # Python cleaning & validation scripts
